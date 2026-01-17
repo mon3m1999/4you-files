@@ -1,34 +1,5 @@
 {
-  "sources": [
-    {
-      "id": "3d54ed7b0e687300f3292dabff1a5e3297af8fea",
-      "name": "الاتصال الرقمي",
-      "originalFileName": "1768605504397_الاتصال الرقمي.pdf",
-      "type": "PDF",
-      "category": "repository",
-      "content": "https://raw.githubusercontent.com/mon3m1999/4you-files/main/1768605504397_الاتصال الرقمي.pdf",
-      "mimeType": "application/pdf",
-      "theme": "midnight",
-      "sha": "3d54ed7b0e687300f3292dabff1a5e3297af8fea",
-      "size": 1256410,
-      "uploadedAt": "2026-01-17T07:09:15.186Z",
-      "createdAt": "2026-01-17T07:09:15.186Z"
-    },
-    {
-      "id": "7411b753ea1b7547d8b507cde1ff1ecb5f9ef6e3",
-      "name": "خالد النجار",
-      "originalFileName": "1768607402481_خالد النجار.pdf",
-      "type": "PDF",
-      "category": "repository",
-      "content": "https://raw.githubusercontent.com/mon3m1999/4you-files/main/1768607402481_خالد النجار.pdf",
-      "mimeType": "application/pdf",
-      "theme": "sunset",
-      "sha": "7411b753ea1b7547d8b507cde1ff1ecb5f9ef6e3",
-      "size": 78876,
-      "uploadedAt": "2026-01-17T07:09:15.187Z",
-      "createdAt": "2026-01-17T07:09:15.187Z"
-    }
-  ],
-  "lastUpdated": "2026-01-17T07:09:20.953Z",
+  "sources": [],
+  "lastUpdated": "2026-01-17T07:09:47.587Z",
   "version": "1.1"
 }
