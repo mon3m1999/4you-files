@@ -1,20 +1,5 @@
 {
-  "sources": [
-    {
-      "id": "3d54ed7b0e687300f3292dabff1a5e3297af8fea",
-      "name": "الاتصال الرقمي",
-      "originalFileName": "1768634435875_الاتصال الرقمي.pdf",
-      "type": "PDF",
-      "category": "repository",
-      "content": "https://raw.githubusercontent.com/mon3m1999/4you-files/main/1768634435875_الاتصال الرقمي.pdf",
-      "mimeType": "application/pdf",
-      "theme": "royal",
-      "sha": "3d54ed7b0e687300f3292dabff1a5e3297af8fea",
-      "size": 1256410,
-      "uploadedAt": "2026-01-17T07:21:01.985Z",
-      "createdAt": "2026-01-17T07:21:01.985Z"
-    }
-  ],
-  "lastUpdated": "2026-01-17T07:21:03.753Z",
+  "sources": [],
+  "lastUpdated": "2026-01-17T07:21:26.423Z",
   "version": "1.1"
 }
